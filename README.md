@@ -1,6 +1,8 @@
 # Smashtag
 
-Study demo, searching Tweets by a hashtag and displaying in a table view. Shows statistic of tweets per user in a separate view.
+Study demo. 
+Search Tweets by a hashtag to display them in a table view. 
+Shows statistic of tweets per user in a separate view.
 
 ![Twitter Search by HashTag](https://github.com/glaphi/Smashtag/blob/master/Readme/TwitterSearch.png)
 
