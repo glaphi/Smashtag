@@ -35,9 +35,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
         
         Twitter.sharedInstance().start(withConsumerKey:consumer_key, consumerSecret:consumer_secret)
-        
-      //  Twitter.sharedInstance().start(withConsumerKey:"gZ1TUcfZboLvN0YsMIU1F3fmc", consumerSecret:"Zu6VAIorfEPIpA9EiPG4oH81DIZyaTxUqh2mmvuINNetawVM7Z")
-        
+
         let store = Twitter.sharedInstance().sessionStore
         
         if store.existingUserSessions().count == 0 {
