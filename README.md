@@ -6,8 +6,8 @@ Study demo, searching Tweets by a hashtag and displaying in a table view. Shows 
 
 ## Updating
 
-On pulling down requesting the search update.
-Each update creates a new section with its number as a title.
+Pull down to refresh search.
+Each update creates a new section with its number as a hearder.
 
 
 ![New search request](https://github.com/glaphi/Smashtag/blob/master/Readme/TwitterSearchAfterRefresh.png)
