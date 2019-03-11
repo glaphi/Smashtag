@@ -16,4 +16,4 @@ Each update creates a new section with its number as a hearder.
 
 
 ## Note
-Uses Twitter Kit no longer supported
+Uses no longer supported Twitter Kit framework
